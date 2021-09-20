@@ -225,23 +225,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MAVVBXBG
 
 [Document12]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=ePBR20_ACU_Latching.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,78 +240,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=ePBR20_ACU_Latching_rev0 2019-07-31 12-56-07 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=ePBR20_ACU_Latching_rev0 2019-08-24 1-26-28 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=ePBR20_ACU_Latching_rev0 2019-08-25 7-32-56 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=ePBR20_ACU_Latching_rev0 2019-08-22 11-58-31 AM.WAS
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
