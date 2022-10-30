@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HBLPROFQ
 
 [Document10]
-DocumentPath=ePBR20_ACU_Latching_rev1.PcbDoc
+DocumentPath=ePBR23_ACU_Latching_rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
