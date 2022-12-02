@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ePBR23_ACU_Latching_rev0.PcbDoc   2022-11-23  6:10:40 PM
+NCDrill File Report For: ePBR23_ACU_Latching_rev0.PcbDoc   2022-12-02  1:54:49 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,12 @@ ASCII RoundHoles File : ePBR23_ACU_Latching_rev0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             784       PTH        65.26inch (1657.52mm)
-T2      17mil (0.432mm)                                           Round             40        PTH        11.73inch (297.90mm)
-T3      35mil (0.889mm)                                           Round             36        PTH        9.92inch (252.07mm)
-T4      40mil (1.016mm)                                           Round             2         PTH        0.10inch (2.54mm)
-T5      51mil (1.295mm)                                           Round             27        PTH        6.44inch (163.58mm)
-T6      137mil (3.48mm)                                           Round             4         PTH        6.55inch (166.46mm)
+T1      17mil (0.432mm)                                           Round             263       PTH        35.93inch (912.58mm)
+T2      35mil (0.889mm)                                           Round             36        PTH        9.92inch (252.07mm)
+T3      40mil (1.016mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T4      51mil (1.295mm)                                           Round             27        PTH        6.44inch (163.58mm)
+T5      137mil (3.48mm)                                           Round             4         PTH        6.55inch (166.46mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              893
+Totals                                                                              332
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
