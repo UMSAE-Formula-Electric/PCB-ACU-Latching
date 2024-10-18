@@ -169,6 +169,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CKLBBAYJ
 
 [Document8]
+DocumentPath=Miscellaneous Devices.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KUZBZCEZ
+
+[Document9]
 DocumentPath=ACB_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKFIURDG
 
-[Document9]
+[Document10]
+DocumentPath=Miscellaneous Devices.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BDJCNYYI
+
+[Document11]
 DocumentPath=ACB_PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBLPROFQ
 
-[Document10]
+[Document12]
 DocumentPath=ePBR20_ACU_Latching.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document13]
 DocumentPath=ePBR25_ACU_Latching_rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPKTUBSC
 
-[Document12]
+[Document14]
 DocumentPath=ePBR25_ACU_Latching.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
