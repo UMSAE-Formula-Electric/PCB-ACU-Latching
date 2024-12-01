@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\UMSAE Electric\PCB's\PCB-ACU-Latching\ePBR25_ACU_Latching_rev0.PcbDoc
 Date     : 2024-12-01
-Time     : 4:32:07 AM
+Time     : 4:59:34 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -64,18 +64,22 @@ Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad IMD1-21(5535.228mil,3697.866mil) on Multi-Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad IMD1-21(5535.228mil,3697.866mil) on Multi-Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad IMD1-24(5535.228mil,3896.291mil) on Multi-Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad IMD1-24(5535.228mil,3896.291mil) on Multi-Layer And Text "R68" (5518mil,3843mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad JMP1-1(5302.866mil,4060mil) on Multi-Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad R29-1(5715mil,4212.441mil) on Bottom Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad R68-1(5449.438mil,3793mil) on Bottom Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad R68-2(5504.556mil,3793mil) on Bottom Layer And Region (0 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad U1-6(5944.087mil,4330mil) on Top Layer And Text "GND" (5970mil,4340mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (Collision < 2mil) Between Pad U1-7(5944.087mil,4380mil) on Top Layer And Text "GND" (5970mil,4340mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
    Violation between Silk To Solder Mask Clearance Constraint: (1.592mil < 2mil) Between Pad U1-8(5944.087mil,4430mil) on Top Layer And Text "TSA" (5970mil,4420mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.592mil]
-Rule Violations :19
+Rule Violations :22
 
 Processing Rule : Silk to Silk (Clearance=0.1mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Arc (6425.803mil,3988.63mil) on Bottom Overlay And Text "Q14" (6437mil,3956mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Region (0 hole(s)) Bottom Overlay And Text "BOKn" (5511.832mil,4146.278mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Region (0 hole(s)) Bottom Overlay And Text "C2" (5765mil,4115mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Region (0 hole(s)) Bottom Overlay And Text "R29" (5699.065mil,4090.202mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Region (0 hole(s)) Bottom Overlay And Text "R68" (5518mil,3843mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "GND" (5900mil,2720mil) on Top Overlay And Track (5432.866mil,2806.134mil)(5932.866mil,2806.134mil) on Top Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "GND" (6200mil,2709mil) on Top Overlay And Track (6112.866mil,2806.134mil)(6612.866mil,2806.134mil) on Top Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "OUT" (6405mil,2715mil) on Top Overlay And Track (6112.866mil,2806.134mil)(6612.866mil,2806.134mil) on Top Overlay Silk Text to Silk Clearance [0mil]
@@ -83,7 +87,7 @@ Processing Rule : Silk to Silk (Clearance=0.1mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "R40" (5109.145mil,4350mil) on Top Overlay And Text "R44" (5035mil,4350mil) on Top Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "R5" (4980mil,3040mil) on Bottom Overlay And Track (4972.551mil,2993.583mil)(4972.551mil,3063.583mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0.1mil) Between Text "RST" (6285mil,2715mil) on Top Overlay And Track (6112.866mil,2806.134mil)(6612.866mil,2806.134mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :11
+Rule Violations :12
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -92,6 +96,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 40
+Violations Detected : 44
 Waived Violations : 0
 Time Elapsed        : 00:00:01
