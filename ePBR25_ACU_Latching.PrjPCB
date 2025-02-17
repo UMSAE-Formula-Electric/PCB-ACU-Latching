@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=5  - Status Lights.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=1
-DocumentUniqueId=REALQUFS
-
-[Document2]
 DocumentPath=4  - Latching.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=REEUYAAK
 
-[Document3]
+[Document2]
 DocumentPath=4a - Latching AMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJOGYLEV
 
-[Document4]
+[Document3]
 DocumentPath=4b - Latching IMD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOSQLTHX
 
-[Document5]
+[Document4]
 DocumentPath=4c - Latching BSPD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYBDOIKW
 
-[Document6]
+[Document5]
 DocumentPath=4d - BSPD Detection Timer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGLAGAOX
 
-[Document7]
+[Document6]
 DocumentPath=4e - Brake Detection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,6 +150,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKLBBAYJ
+
+[Document7]
+DocumentPath=5  - Status Lights.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=REALQUFS
 
 [Document8]
 DocumentPath=Miscellaneous Devices.SchLib
@@ -288,122 +288,126 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.DRR
+DocumentPath=Project Outputs for ePBR25_ACU_Latching\Design Rule Check - ePBR25_ACU_Latching_rev0.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.EXTREP
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBL
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBO
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBP
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBS
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GM2
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTL
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTO
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTP
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTS
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.LDP
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.REP
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.RUL
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.TXT
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.DRR
+DocumentPath=Project Outputs for ePBR20_ACU_Latching\ePBR20_ACU_Latching_rev1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.EXTREP
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBL
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBO
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBP
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBS
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GM2
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTL
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTO
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTP
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTS
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.LDP
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.REP
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.RUL
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
+DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=Project Outputs for ePBR23_ACU_Latching\ePBR23_ACU_Latching_rev0.TXT
 DItemRevisionGUID=
 
@@ -683,11 +687,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1346,7 +1345,6 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
